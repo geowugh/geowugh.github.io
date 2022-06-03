@@ -18,7 +18,7 @@ Education
     * Major: Geology
     * Advisor: [Dr. Fukun Chen （陈福坤）][CFK]
    
-* Academic Visit (2022.12-2023.12, University of Toronto)
+* Academic Visit (2021.12-2022.12, University of Toronto)
     * Major: Geology
     * Advisor: [Dr. Xu Chu （初旭）][CX]
      
