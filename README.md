@@ -50,7 +50,8 @@ Publications
 
 
 ```diff
-+ God rewards the diligent！ 天道酬勤！
++ The great Nature is beyond any languages！—— Chuang Tzu
+  天地有大美而不可言！—— 庄子
 ```
 
 --------------------------------
