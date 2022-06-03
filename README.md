@@ -4,9 +4,6 @@ wugh17@mail.ustc.edu.cn
 
 Jinzhai Road 96#, Hefei 230026, Anhui Province, China 安徽省合肥市包河区金寨路96号
 
-===========================
-
-
 ****
 ## Introduction
 * [Education](#Education)
@@ -36,7 +33,7 @@ Skills
     * Sedimentary
     * Geochemistry
      
-* experiment
+* Experiment
     * Geochemical treatment for Sr-Nd-Pb isotopes and REEs
     * Use of TIMS and (LA)-ICP-MS
 
