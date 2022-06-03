@@ -57,9 +57,9 @@ Publications
 [CFK]:http://ess.ustc.edu.cn/faculties/detail-3.html
 [CX]:https://www.xchu.rocks/home
 [YDF]:http://earth.lzu.edu.cn/col_js1/201807/F8A3997176E795BC0D3D0BBB83C115EB.htm
-[P1]:https://www.sciencedirect.com/science/article/abs/pii/S0024493719300672?via%3Dihub
-[P2]:https://www.sciencedirect.com/science/article/abs/pii/S1367912019305036?via%3Dihub
-[P3]:https://www.sciencedirect.com/science/article/abs/pii/S0024493720305855?via%3Dihub
-[P4]:https://www.sciencedirect.com/science/article/abs/pii/S1367912020303990?via%3Dihub
-[P5]:https://www.sciencedirect.com/science/article/abs/pii/S030192682030646X?via%3Dihub
-[P6]:https://www.sciencedirect.com/science/article/abs/pii/S1367912022001523?via%3Dihub
+[P1]:https://dx.doi.org/10.1016/j.lithos.2019.01.038
+[P2]:https://dx.doi.org/10.1016/j.jseaes.2019.104151
+[P3]:https://doi.org/10.1016/j.lithos.2020.105950
+[P4]:https://dx.doi.org/10.1016/j.jseaes.2020.104606
+[P5]:https://dx.doi.org/10.1016/j.precamres.2020.106057
+[P6]:https://dx.doi.org/10.1016/j.jseaes.2022.105229
