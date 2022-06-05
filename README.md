@@ -5,10 +5,10 @@ wugh17@mail.ustc.edu.cn
 Jinzhai Road 96#, Hefei 230026, Anhui Province, China 安徽省合肥市包河区金寨路96号
 
 ****
-## Introduction
-* [Education](#Education)
-* [Skills](#Skills)
-* [Publications](#Publications)
+## Contents
+* [Education](#education)
+* [Skills](#skills)
+* [Publications](#publications)
  
 
 Education
