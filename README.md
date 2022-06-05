@@ -9,6 +9,7 @@ Jinzhai Road 96#, Hefei 230026, Anhui Province, China 安徽省合肥市包河�
 * [Education](#education)
 * [Skills](#skills)
 * [Publications](#publications)
+* [Photos](#photos)
  
 
 Education
@@ -47,7 +48,12 @@ Publications
 * Cong F, Li W-C, Wu F-Y, Huang L, Huang X-M, Sun J, Liu X-C, Hu F-Y, Hu S-X, __Wu G-H__. Mesozoic Crustal Growth in Mainland Southeast Asia: Zircon U-Pb and Hf Isotopic Evidence from the Late Cretaceous Luyingtang Granitic Pluton in the Northernmost Se Asian Granite Province, Sw China. ___Journal of Asian Earth Sciences___ 190 (2020). [DOI:10.1016/j.jseaes.2019.104151][P2]
 * Zhang H, __Wu G-H__, Cheng H, Ye R-S, He J-F, Chen F. Late Triassic High Mg Diorites of the Wulong Pluton in the South Qinling Belt, China: Petrogenesis and Implications for Crust-Mantle Interaction. ___Lithos___ 332-333 (2019): 135-46. [DOI:10.1016/j.lithos.2019.01.038][P1] 
 
-
+Photos
+------
+|Photos|Description|
+|---|----
+|1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+|2|`![][code-past]`|![][code-past]
 
 --------------------------------
 ```diff
