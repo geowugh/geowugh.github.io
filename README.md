@@ -17,15 +17,15 @@ Education
 
 * Ph.D. (2023.06, University of Science and Technology of China)
     * Major: Geology
-    * Advisor: [Dr. Fukun Chen （__陈福坤__）][CFK]
+    * Advisor: [Fukun Chen （__陈福坤__）][CFK]
    
 * Academic Visit (2021.12-2022.12, University of Toronto)
     * Major: Geology
-    * Advisor: [Dr. Xu Chu （__初旭__）][CX]
+    * Advisor: [Xu Chu （__初旭__）][CX]
      
 * B.A. (2017.06, Lanzhou University)
     * Major: Geology
-    * Advisor: [Dr. Defei Yan （__闫德飞__）][YDF]
+    * Advisor: [Defei Yan （__闫德飞__）][YDF]
 
 Skills
 ------
@@ -54,15 +54,18 @@ Photos
 |---|:---:|
 |![][img01]|2018.9 Yunnan|
 |![][img02]|2018.9 Yunnan|
-
- [Top (返回顶部)](#contents)
+|![][img03]|2019.6 Gansu|
+|![][img04]|2020.11 Shaanxi|
+|![][img05]|2021.6 Yunnan|
+|![][img06]|2021.9 Yunnan|
 
 --------------------------------
 ```diff
 + The great Nature is beyond any languages！—— Chuang Tzu
   天地有大美而不可言！—— 庄子
 ```
-
+ [Top (返回顶部)](#contents)
+ 
 [CFK]:http://ess.ustc.edu.cn/faculties/detail-3.html
 [CX]:https://www.xchu.rocks/home
 [YDF]:http://earth.lzu.edu.cn/col_js1/201807/F8A3997176E795BC0D3D0BBB83C115EB.htm
@@ -74,3 +77,7 @@ Photos
 [P6]:https://dx.doi.org/10.1016/j.jseaes.2022.105229
 [img01]:code./IMG_6552.JPG
 [img02]:code./IMG_6566.JPG
+[img03]:myphoto/20220605193530.jpg
+[img04]:myphoto/20220605193552.jpg
+[img05]:myphoto/20220605193604.jpg
+[img06]:myphoto/20220605193614.jpg
