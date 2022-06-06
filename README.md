@@ -16,27 +16,27 @@ Education
 ------
 
 * Ph.D. (2023.06, University of Science and Technology of China)
-    * Major: Geology
-    * Advisor: [Fukun Chen （__陈福坤__）][CFK]
+  * Major: Geology
+  * Advisor: [Fukun Chen （__陈福坤__）][CFK]
    
 * Academic Visit (2021.12-2022.12, University of Toronto)
-    * Major: Geology
-    * Advisor: [Xu Chu （__初旭__）][CX]
+  * Major: Geology
+  * Advisor: [Xu Chu （__初旭__）][CX]
      
 * B.A. (2017.06, Lanzhou University)
-    * Major: Geology
-    * Advisor: [Defei Yan （__闫德飞__）][YDF]
+  * Major: Geology
+  * Advisor: [Defei Yan （__闫德飞__）][YDF]
 
 Skills
 ------
 
 * Theory
-    * Sedimentary
-    * Geochemistry
+  * Sedimentary
+  * Geochemistry
      
 * Experiment
-    * Geochemical treatment for Sr-Nd-Pb isotopes and REEs
-    * Use of TIMS and (LA)-ICP-MS
+  * Geochemical treatment for Sr-Nd-Pb isotopes and REEs
+  * Use of TIMS and (LA)-ICP-MS
 
 Publications
 ------
