@@ -1,4 +1,6 @@
+vvvvvvvv
 [中文](README_CN.md)
+vvvvvvvv
 
 # Guanghui Wu 武广辉
 
@@ -65,7 +67,7 @@ Photos
 ```diff
 + The great Nature is beyond any languages！—— Chuang Tzu
 ```
- [Bach to Top](#中文)
+ [Bach to Top](#vvvvvvvv)
  
 [CFK]:http://ess.ustc.edu.cn/faculties/detail-3.html
 [CX]:https://www.xchu.rocks/home
