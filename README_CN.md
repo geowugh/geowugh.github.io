@@ -1,11 +1,12 @@
 # 武广辉
-[English](README.md)
 
 电子邮箱：wugh17@mail.ustc.edu.cn
 
 通讯地址：安徽省合肥市包河区金寨路96号，230036
 
 ****
+[English](README.md)|[中文](README_CN.md)
+
 ## Contents
 * [教育经历](#教育经历)
 * [专业特长](#专业特长)
