@@ -1,11 +1,12 @@
 # Guanghui Wu
-[中文](README_CN.md)
 
 wugh17@mail.ustc.edu.cn
 
 Jinzhai Road 96#, Hefei 230026, Anhui Province, China
 
 ****
+[__中文__](README_CN.md) | [__English__](README.md)
+
 ## Contents
 * [Education](#education)
 * [Skills](#skills)
