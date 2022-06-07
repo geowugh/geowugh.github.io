@@ -63,8 +63,7 @@ Photos
 
 --------------------------------
 ```diff
- + The great Nature is beyond any languages！—— Chuang Tzu
- 
++ The great Nature is beyond any languages！—— Chuang Tzu
 ```
  [Bach to Top](#contents)
  
