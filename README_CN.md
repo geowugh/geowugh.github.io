@@ -8,10 +8,10 @@ wugh17@mail.ustc.edu.cn
 
 ****
 ## Contents
-* [教育经历](#education)
-* [专业特长](#skills)
-* [发表文章](#publications)
-* [图片](#photos)
+* [教育经历](#教育经历)
+* [专业特长](#专业特长)
+* [发表文章](#发表文章)
+* [图片](#图片)
  
 
 教育经历
@@ -52,7 +52,7 @@ wugh17@mail.ustc.edu.cn
 
 图片
 ------
-|Photos|Description|
+|图片|描述|
 |---|:---:|
 |![][img01]|2018.9 云南|
 |![][img02]|2018.9 云南|
