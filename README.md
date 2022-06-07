@@ -4,7 +4,7 @@
 
 wugh17@mail.ustc.edu.cn
 
-Jinzhai Road 96#, Hefei 230026, Anhui Province, China 安徽省合肥市包河区金寨路96号
+Jinzhai Road 96#, Hefei 230026, Anhui Province, China
 
 ****
 ## Contents
@@ -19,15 +19,15 @@ Education
 
 * Ph.D. (2023.06, University of Science and Technology of China)
   * Major: Geology
-  * Advisor: [Fukun Chen （__陈福坤__）][CFK]
+  * Advisor: [Fukun Chen][CFK]
    
 * Academic Visit (2021.12-2022.12, University of Toronto)
   * Major: Geology
-  * Advisor: [Xu Chu （__初旭__）][CX]
+  * Advisor: [Xu Chu][CX]
      
 * B.A. (2017.06, Lanzhou University)
   * Major: Geology
-  * Advisor: [Defei Yan （__闫德飞__）][YDF]
+  * Advisor: [Defei Yan][YDF]
 
 Skills
 ------
@@ -63,10 +63,10 @@ Photos
 
 --------------------------------
 ```diff
-+ The great Nature is beyond any languages！—— Chuang Tzu
-  天地有大美而不可言！—— 庄子
+ The great Nature is beyond any languages！—— Chuang Tzu
+ 
 ```
- [Top (返回顶部)](#contents)
+ [Bach to Top](#contents)
  
 [CFK]:http://ess.ustc.edu.cn/faculties/detail-3.html
 [CX]:https://www.xchu.rocks/home
