@@ -1,35 +1,35 @@
-[English][EN]
+[English](README.md)
 
-# Guanghui Wu 武广辉
+# 武广辉
 
 wugh17@mail.ustc.edu.cn
 
-Jinzhai Road 96#, Hefei 230026, Anhui Province, China 安徽省合肥市包河区金寨路96号
+安徽省合肥市包河区金寨路96号，230036
 
 ****
 ## Contents
-* [Education](#education)
-* [Skills](#skills)
-* [Publications](#publications)
-* [Photos](#photos)
+* [教育经历](#education)
+* [专业特长](#skills)
+* [发表文章](#publications)
+* [图片](#photos)
  
 
-Education
+教育经历
 ------
 
-* Ph.D. (2023.06, University of Science and Technology of China)
-  * Major: Geology
-  * Advisor: [Fukun Chen （__陈福坤__）][CFK]
+* 博士 (2023.06, 中国科学技术大学)
+  * 专业: 地质学
+  * 指导老师: __陈福坤__[CFK]
    
-* Academic Visit (2021.12-2022.12, University of Toronto)
-  * Major: Geology
-  * Advisor: [Xu Chu （__初旭__）][CX]
+* 交流学习(2021.12-2022.12, 多伦多大学)
+  * 专业: 地质学
+  * 指导老师: __初旭__[CX]
      
-* B.A. (2017.06, Lanzhou University)
-  * Major: Geology
-  * Advisor: [Defei Yan （__闫德飞__）][YDF]
+* 本科 (2017.06, 兰州大学)
+  * 专业: 地质学
+  * 指导老师: __闫德飞__[YDF]
 
-Skills
+专业技能
 ------
 
 * Theory
@@ -40,7 +40,7 @@ Skills
   * Geochemical treatment for Sr-Nd-Pb isotopes and REEs
   * Use of TIMS and (LA)-ICP-MS
 
-Publications
+发表文章
 ------
 
 * __Wu G-H__, Zhang H, Hu A, Li W, Huang X, Cheng H, He J, Chen F. Provenance of the Early Paleozoic Sedimentary Succession in the Lancang Block, Sw China: Implications for the Tectonic Evolution of the Northern Margin of Gondwana. ___Journal of Asian Earth Sciences___ 231 (2022). [DOI:10.1016/j.jseaes.2022.105229][P6]
@@ -63,10 +63,10 @@ Photos
 
 --------------------------------
 ```diff
-+ The great Nature is beyond any languages！—— Chuang Tzu
++ 天地有大美而不可言！—— 庄子
   天地有大美而不可言！—— 庄子
 ```
- [Top (返回顶部)](#contents)
+ [返回顶部](#contents)
  
 [CFK]:http://ess.ustc.edu.cn/faculties/detail-3.html
 [CX]:https://www.xchu.rocks/home
