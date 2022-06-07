@@ -1,6 +1,5 @@
+# Guanghui Wu
 [中文](README_CN.md)
-
-# Guanghui Wu 武广辉
 
 wugh17@mail.ustc.edu.cn
 
