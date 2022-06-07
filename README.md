@@ -1,3 +1,5 @@
+[中文][#CN]
+
 # Guanghui Wu 武广辉
 
 wugh17@mail.ustc.edu.cn
@@ -81,3 +83,4 @@ Photos
 [img04]:myphoto/20220605193552.jpg
 [img05]:myphoto/20220605193604.jpg
 [img06]:myphoto/20220605193614.jpg
+[CN]:
