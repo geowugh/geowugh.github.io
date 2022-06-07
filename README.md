@@ -83,4 +83,4 @@ Photos
 [img04]:myphoto/20220605193552.jpg
 [img05]:myphoto/20220605193604.jpg
 [img06]:myphoto/20220605193614.jpg
-[CN]:
+[CN]:README_CN.md
