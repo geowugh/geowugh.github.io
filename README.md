@@ -48,14 +48,14 @@ Publications
 
 Photos
 ------
-|Photos|Description|
-|---|:---:|
-|![][img01]|2018.9 Yunnan|
-|![][img02]|2018.9 Yunnan|
-|![][img03]|2019.6 Gansu|
-|![][img04]|2020.11 Shaanxi|
-|![][img05]|2021.6 Yunnan|
-|![][img06]|2021.9 Yunnan|
+| Photos | Description |
+| --- | :---: |
+| ![][img01] | 2018.9 Yunnan |
+| ![][img02] | 2018.9 Yunnan |
+| ![][img03] | 2019.6 Gansu |
+| ![][img04] | 2020.11 Shaanxi |
+| ![][img05] | 2021.6 Yunnan |
+| ![][img06] | 2021.9 Yunnan |
 
 --------------------------------
 ```diff
