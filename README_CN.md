@@ -60,7 +60,7 @@
 ```diff
 + 天地有大美而不可言！—— 庄子
 ```
- [返回顶部](# 武 广 辉)
+ [返回顶部](#武广辉)
  
 [CFK]:http://ess.ustc.edu.cn/faculties/detail-3.html
 [CX]:https://www.xchu.rocks/home
