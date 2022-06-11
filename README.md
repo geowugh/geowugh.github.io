@@ -1,6 +1,6 @@
 # Guanghui Wu
 
-Student
+student
 
 wugh17@mail.ustc.edu.cn
 
