@@ -1,5 +1,5 @@
-# Guanghui
-# Wu
+# Guanghui Wu
+
 
 wugh17@mail.ustc.edu.cn
 
@@ -61,7 +61,7 @@ Photos
 ```diff
 + The great Nature is beyond any languages！—— Chuang Tzu
 ```
- [Bach to Top](#guanghui)
+ [Bach to Top](#guanghui wu)
  
 [CFK]:http://ess.ustc.edu.cn/faculties/detail-3.html
 [CX]:https://www.xchu.rocks/home
