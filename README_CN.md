@@ -1,4 +1,4 @@
-# 武 广 辉
+# 武广辉
 
 电子邮箱：wugh17@mail.ustc.edu.cn
 
