@@ -71,6 +71,9 @@ __2021.6 Yunnan__
 __2021.9 Yunnan__
 
 
+|#|图片|描述|
+|1|![][img07]| 2018.9 云南|
+|2|![][img08]| 2018.9 云南|
 --------------------------------
 ```diff
 + The great Nature is beyond any languages！—— Chuang Tzu
@@ -92,5 +95,5 @@ __2021.9 Yunnan__
 [img04]:myphoto/20220605193552.jpg
 [img05]:myphoto/20220605193604.jpg
 [img06]:myphoto/20220605193614.jpg
-
-
+[img07]:myphoto/01.png
+[img08]:myphoto/02.jpg
