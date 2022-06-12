@@ -63,7 +63,6 @@
 ```
  [返回顶部](#武广辉)
  
- ![Visitor Count](https://profile-counter.glitch.me/geowugh/count.svg)
  
 [CFK]:http://ess.ustc.edu.cn/faculties/detail-3.html
 [CX]:https://www.xchu.rocks/home
