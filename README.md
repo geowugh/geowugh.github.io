@@ -47,34 +47,15 @@ Publications
 
 Photos
 ------
-![][img01]
-__2018.9 Yunnan__
 
-
-![][img02]
-__2018.9 Yunnan__
-
-
-![][img03]
-__2019.6 Gansu__
-
-
-![][img04]
-__2020.11 Shaanxi__
-
-
-![][img05]
-__2021.6 Yunnan__
-
-
-![][img06]
-__2021.9 Yunnan__
-
-
-| # | 图片 | 描述 |
-| :---: | :---: | :---: |
-| 1 |![][img07] | 2018.9 云南 |
-| 2 |![][img08] | 2018.9 云南 |
+|#|Photo|Location|
+|---|:----:|:-----:|
+|1|![][img01]| 2018.9 Yunnan,China|
+|2|![][img02]| 2018.9  Yunnan,China|
+|3|![][img03]| 2019.6  Gansu,China|
+|4|![][img04]| 2020.11  Shaanxi,China|
+|5|![][img05]| 2021.6  Yunnan,China|
+|6|![][img06]| 2021.9  Yunnan,China|
 
 --------------------------------
 ```diff
@@ -97,5 +78,4 @@ __2021.9 Yunnan__
 [img04]:myphoto/20220605193552.jpg
 [img05]:myphoto/20220605193604.jpg
 [img06]:myphoto/20220605193614.jpg
-[img07]:myphoto/01.png
-[img08]:myphoto/02.jpg
+
