@@ -79,7 +79,7 @@ Photos
 [P4]:https://dx.doi.org/10.1016/j.jseaes.2020.104606
 [P5]:https://dx.doi.org/10.1016/j.precamres.2020.106057
 [P6]:https://dx.doi.org/10.1016/j.jseaes.2022.105229
-[img01]:<img src="code./IMG_6552.JPG"><br/>
+[img01]:code./IMG_6552.JPG
 [img02]:code./IMG_6566.JPG
 [img03]:myphoto/20220605193530.jpg
 [img04]:myphoto/20220605193552.jpg
