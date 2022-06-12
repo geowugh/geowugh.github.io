@@ -1,4 +1,4 @@
-# Guanghui Wu
+# __Guanghui Wu__
 
 #### Student
 #### wugh17@mail.ustc.edu.cn
