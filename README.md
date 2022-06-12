@@ -73,13 +73,13 @@ Photos
 [CFK]:http://ess.ustc.edu.cn/faculties/detail-3.html
 [CX]:https://www.xchu.rocks/home
 [YDF]:http://earth.lzu.edu.cn/col_js1/201807/F8A3997176E795BC0D3D0BBB83C115EB.htm
-[P1]:<img src="https://dx.doi.org/10.1016/j.lithos.2019.01.038"><br/>
+[P1]:https://dx.doi.org/10.1016/j.lithos.2019.01.038
 [P2]:https://dx.doi.org/10.1016/j.jseaes.2019.104151
 [P3]:https://doi.org/10.1016/j.lithos.2020.105950
 [P4]:https://dx.doi.org/10.1016/j.jseaes.2020.104606
 [P5]:https://dx.doi.org/10.1016/j.precamres.2020.106057
 [P6]:https://dx.doi.org/10.1016/j.jseaes.2022.105229
-[img01]:code./IMG_6552.JPG
+[img01]:<img src="code./IMG_6552.JPG"><br/>
 [img02]:code./IMG_6566.JPG
 [img03]:myphoto/20220605193530.jpg
 [img04]:myphoto/20220605193552.jpg
