@@ -50,7 +50,7 @@ Publications
 Photos
 ------
 | Photos | Description |
-| --- | :---: |
+| :--: | :--: |
 | ![][img01] | 2018.9 Yunnan |
 | ![][img02] | 2018.9 Yunnan |
 | ![][img03] | 2019.6 Gansu |
