@@ -9,7 +9,7 @@
 
 ***
 
-Education
+__Education__
 ------
 
 * Ph.D. (2023.06, University of Science and Technology of China)
@@ -24,7 +24,7 @@ Education
   * Major: Geology
   * Advisor: [Defei Yan][YDF]
 
-Skills
+__Skills__
 ------
 
 * Theory
@@ -35,7 +35,7 @@ Skills
   * Geochemical treatment for Sr-Nd-Pb isotopes and REEs
   * Use of TIMS and (LA)-ICP-MS
 
-Publications
+__Publications__
 ------
 
 * __Wu G-H__, Zhang H, Hu A, Li W, Huang X, Cheng H, He J, Chen F. Provenance of the Early Paleozoic Sedimentary Succession in the Lancang Block, Sw China: Implications for the Tectonic Evolution of the Northern Margin of Gondwana. ___Journal of Asian Earth Sciences___ 231 (2022). [DOI:10.1016/j.jseaes.2022.105229][P6]
@@ -45,7 +45,7 @@ Publications
 * Cong F, Li W-C, Wu F-Y, Huang L, Huang X-M, Sun J, Liu X-C, Hu F-Y, Hu S-X, __Wu G-H__. Mesozoic Crustal Growth in Mainland Southeast Asia: Zircon U-Pb and Hf Isotopic Evidence from the Late Cretaceous Luyingtang Granitic Pluton in the Northernmost Se Asian Granite Province, Sw China. ___Journal of Asian Earth Sciences___ 190 (2020). [DOI:10.1016/j.jseaes.2019.104151][P2]
 * Zhang H, __Wu G-H__, Cheng H, Ye R-S, He J-F, Chen F. Late Triassic High Mg Diorites of the Wulong Pluton in the South Qinling Belt, China: Petrogenesis and Implications for Crust-Mantle Interaction. ___Lithos___ 332-333 (2019): 135-46. [DOI:10.1016/j.lithos.2019.01.038][P1] 
 
-Photos
+__Photos__
 ------
 
 |#|Photo|Location|
