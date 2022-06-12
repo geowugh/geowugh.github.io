@@ -60,7 +60,8 @@ __Photos__
 ```diff
 + The great Nature is beyond any languages！—— Chuang Tzu
 ```
- [Bach to Top](#student)
+\\[Bach to Top](#student)
+[Bach to Top](#guanghui Wu)
  
 [CFK]:http://ess.ustc.edu.cn/faculties/detail-3.html
 [CX]:https://www.xchu.rocks/home
