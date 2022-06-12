@@ -1,8 +1,8 @@
 # Guanghui Wu
 
-###### Student
-###### wugh17@mail.ustc.edu.cn
-###### Jinzhai Road 96#, Hefei 230026, Anhui Province, China
+#### Student
+#### wugh17@mail.ustc.edu.cn
+#### Jinzhai Road 96#, Hefei 230026, Anhui Province, China
 
 ****
 [__Education__](#education) | [__Skills__](#skills) | [__Publications__](#publications) | [__Photos__](#photos) | [__中文页面__](README_CN.md)
@@ -73,7 +73,7 @@ Photos
 [CFK]:http://ess.ustc.edu.cn/faculties/detail-3.html
 [CX]:https://www.xchu.rocks/home
 [YDF]:http://earth.lzu.edu.cn/col_js1/201807/F8A3997176E795BC0D3D0BBB83C115EB.htm
-[P1]:https://dx.doi.org/10.1016/j.lithos.2019.01.038
+[P1]:<img src="https://dx.doi.org/10.1016/j.lithos.2019.01.038"><br/>
 [P2]:https://dx.doi.org/10.1016/j.jseaes.2019.104151
 [P3]:https://doi.org/10.1016/j.lithos.2020.105950
 [P4]:https://dx.doi.org/10.1016/j.jseaes.2020.104606
@@ -85,4 +85,5 @@ Photos
 [img04]:myphoto/20220605193552.jpg
 [img05]:myphoto/20220605193604.jpg
 [img06]:myphoto/20220605193614.jpg
+
 
