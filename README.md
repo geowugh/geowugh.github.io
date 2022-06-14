@@ -2,7 +2,7 @@
 
 #### vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
-|---|:----:|:-----:|
+|---|:----:|
 |wugh17@mail.ustc.edu.cn <br>Jinzhai Road 96#, Hefei 230026, Anhui Province, China|![][img06]|
 
 
