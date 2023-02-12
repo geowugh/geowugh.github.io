@@ -6,7 +6,7 @@ wugh17@mail.ustc.edu.cn
 Jinzhai Road 96#, Hefei 230026, Anhui Province, China
 
 ****
-## [__Education__](#education) | [__Skills__](#skills) | [__Publications__](#publications) | [__Photos__](#photos) | [__中文__](README_CN.md)
+## [__Education__](#education) | [__Skills__](#skills) | [__Publications__](#publications) | [__Photos__](#photos) | [__Codes__](#codes) | [__中文__](README_CN.md)
 ****
 
 __Education__
@@ -56,6 +56,10 @@ __Photos__
 |4|![][img04]| 2020.11  Shaanxi,China|
 |5|![][img05]| 2021.6  Yunnan,China|
 |6|![][img06]| 2021.9  Yunnan,China|
+
+__Skills__
+------
+Coming soon...
 
 --------------------------------
 ```diff
