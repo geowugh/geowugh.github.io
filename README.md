@@ -32,7 +32,7 @@ __Skills__
   * Geochemistry
      
 * Experiment
-  * Geochemical treatment for Sr-Nd-Pb isotopes and REEs
+  * Geochemical treatment for Sr-Nd-Pb isotopes and trace elements
   * Use of TIMS and (LA)-ICP-MS
 
 __Publications__
