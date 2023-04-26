@@ -39,7 +39,7 @@
 ------
 
 
-* __Wu G-H__, Chu X, Tang M, Li W, Chen F. Distinct tectono-magmatism on the margins of Rodinia and Gondwana. ___Earth and Planetary Science Letters___ 609 (2023). [DOI: 10.1016/j.epsl.2023.118099][P7]
+* __Wu G-H__, Chu X, Tang M, Li W, Chen F. Distinct tectono-magmatism on the margins of Rodinia and Gondwana. ___Earth and Planetary Science Letters___ 609 (2023). [DOI:10.1016/j.epsl.2023.118099][P7]
 * __Wu G-H__, Zhang H, Hu A, Li W, Huang X, Cheng H, He J, Chen F. Provenance of the Early Paleozoic Sedimentary Succession in the Lancang Block, SW China: Implications for the Tectonic Evolution of the Northern Margin of Gondwana. ___Journal of Asian Earth Sciences___ 231 (2022). [DOI:10.1016/j.jseaes.2022.105229][P6]
 * Chen F, __Wu G-H__, Nie  H, He S, Huang X. Precambrian Crustal Evolution of the Tethyan Yunnan, Southwest China: Records in Detrital Zircons from Paleozoic Sedimentary Rocks of the Baoshan Block. ___Precambrian Research___ 354 (2021). [DOI:10.1016/j.precamres.2020.106057][P5]
 * Zhang H, Cheng H, __Wu G-H__, Huang X-G, He S, Chen F. Fluid-Fluxed Melting of Orogenic Crust in the South Qinling Belt, Central China: Implications from Migmatites of the Foping Dome. ___Journal of Asian Earth Sciences___ 206 (2021). [DOI:10.1016/j.jseaes.2020.104606][P4]
