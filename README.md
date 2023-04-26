@@ -69,7 +69,7 @@ Coming soon...
 
 [Back to Top](#vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv)
  
-[CFK]:http://ess.ustc.edu.cn/faculties/detail-3.html
+[CFK]:http://ess.ustc.edu.cn/2022/0928/c32220a571962/page.htm
 [CX]:https://www.xchu.rocks/home
 [YDF]:http://earth.lzu.edu.cn/col_js1/201807/F8A3997176E795BC0D3D0BBB83C115EB.htm
 [P1]:https://dx.doi.org/10.1016/j.lithos.2019.01.038
